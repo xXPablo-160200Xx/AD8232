@@ -5,4 +5,4 @@ PLEASE, if you're going to use these codes don't forget to install IDE Arduino f
 
 To download this project check the green button (Code↓) in the upper-right files square and select the "Download . ZIP" option.
 
-It's important to compile and up the .ino files before using the .py files.
+It's important to compile and upload the .ino files before using the .py files.
